@@ -1,0 +1,31 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 05 Mar 2020 08:12:57 +0000
+MD5Sum:
+ 1cfc3fb992b85cf0f18b74c16bc0bde3              779 Packages
+ feeeeb0736b4bd50a8c67518c635b13c              543 Packages.gz
+ 6eda6f1c6c5a24d6a85d993d0749243d               38 Release
+SHA1:
+ 6e4a97bbca4e2913b732319ea9fca81d5e4fd970              779 Packages
+ 12870d4f5503b4eaf8abdd3eb007b6ed1deefeca              543 Packages.gz
+ 9d0608774ff1f8cb47523b37037bfa54f047790b               38 Release
+SHA256:
+ 3462161aa67b72abe0bda3ab184209508a0757d48a376623b92d76601f48adbe              779 Packages
+ ab879cb1253e88c5d2208a616a505e2df8049da6b85f6a87a49d077b193a09db              543 Packages.gz
+ 07adfd7e9dd01f64913d0f426ecfeb6a16da57bf5fcb143f014f081ce9071eba               38 Release
+SHA512:
+ 6c715f14045b44ab70c9d2db7385b2470394ea32121ef712289aa23512369913175cee63668999aec03b974b6c99dbd30ecbfc628a4a884d079ebe97d00f4eb6              779 Packages
+ f6326a56eedb853c2a76c649faffdda0b1fd76e4cd2bac1136cb681ac23b09145516812114b9ea24c4ae89cc3652e3c00d54955ddd31fad57e5579009c092d02              543 Packages.gz
+ 1e5f6b840b277075c4c03cbfa530672e07df23601b18eb610b2c7c5ad9ce2cc7afa8465996eb995f021b6b994b76160e91d5119363fe9f96208a5a9dc634f78a               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEw5MzuesO13A5JH34gIADgjHlXfYFAl5gtJ4ACgkQgIADgjHl
+XfbN+wf/bFueIJKyReFs5+DxmWMmA5MPiL52B08iuctalq4a19MrbwDcGRXb+1Sf
+ZSrhvodNXgZ8HbiSVv4YELuCmWXaQwDkFX2DQL1grw0dMapKl8OIaoXah2R7xmwF
+O5+Sstsqtxp/+W3Bnv+YHYAs0Cq+eK0IGzWaiAMCTWkPUR9sf9TmUWjMnOn27Rla
+1mTtI65HTSCenv1bsqGoO6BO2fR5ne2NWrUk+4tS+QTVrlhYeNOuStSb2uuvdZ2M
+4PmQc3sxoDMJIUt4UePryZrKm0cGS0lq8yb5LI2MQuci1duJ7IeAP9iua6AZJQVl
+EHZrxNENV8mEEyqbK1wrIS+OpKJWUw==
+=VgIn
+-----END PGP SIGNATURE-----
